@@ -9,3 +9,17 @@
 .categories {
   padding: 20px;
 }
+
+.black {
+  color: white;
+  background-color: #333 !important;
+}
+
+.padding-footer {
+  padding: 20px 50px !important;
+}
+
+.title-footer {
+  border-bottom: white solid 2px;
+  margin-bottom: 30px;
+}
